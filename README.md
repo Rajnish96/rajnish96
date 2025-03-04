@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Rajnish Kumar Singh;A Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
     
-<h3 align="center">I am a Software Engineer and Full-Stack Developer with 3+ years of experience in designing, developing, and deploying scalable applications using the MERN stack. Over the years, I have successfully delivered 20+ projects across various domains, including Healthcare, Environment, and Enterprise Resource Management (ERM).
+<h3 align="center">I am a Software Engineer and Full-Stack Developer with 3+ years of experience in designing, developing, and deploying scalable applications using the MERN stack. Over the years, I have successfully delivered 15+ projects across various domains, including Healthcare, Environment, and Enterprise Resource Management (ERM).
 I am passionate about writing clean code, optimizing performance, and building reusable components to create impactful software solutions. With strong problem-solving skills, adaptability, and a growth mindset, I excel at tackling complex challenges, learning new technologies, and delivering efficient, high-quality software.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="screenshots">
