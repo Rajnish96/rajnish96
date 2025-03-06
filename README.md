@@ -22,7 +22,7 @@ I am passionate about writing clean code, optimizing performance, and building r
 - 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs, Nodejs, Express, Mongo DB**
 
 - 📫 How to reach me **rajnishkumarsingh93@gmail.com**
-- <h2><a href="https://drive.google.com/">📜 Download_Resume</a></h2>
+- <h2><a href="https://drive.google.com/file/d/17OaQqHALeyhBfZ4fyvJb_I5WdIhFRV7n/view">📜 Download_Resume</a></h2>
 
 <h1><h1/>
 
